@@ -10,8 +10,6 @@ Visual Studio Code: Development environment for SQL queries and database managem
 Git & GitHub: Version control and project tracking for SQL scripts and analysis.
 
 
-FOR MY REFERENCE:
-
 SQL EXECUTION:
 
 1->FROM
